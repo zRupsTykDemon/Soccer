@@ -10,7 +10,7 @@
     <repositories>
         <repository>
             <id>spigot-repo</id>
-            <url>http://maven.elmakers.com/repository/org/spigotmc/spigot/1.11-R0.1-SNAPSHOT/</url>
+            <url>http://maven.elmakers.com/repository/</url>
         </repository>
         <repository>
             <id>pex-repo</id>
@@ -19,10 +19,6 @@
         <repository>
             <id>sk89q</id>
             <url>http://maven.sk89q.com/artifactory/repo/</url>
-        </repository>
-        <repository>
-            <id>spigot-repo</id>
-            <url>http://maven.elmakers.com/repository/org/spigotmc/spigot/1.11-R0.1-SNAPSHOT/</url>
         </repository>
         <repository>
             <id>Maven</id>
@@ -34,7 +30,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot</artifactId>
-            <version>1.10.2-R0.1-SNAPSHOT</version>
+            <version>1.11-R0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
